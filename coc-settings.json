@@ -1,0 +1,12 @@
+{
+  "tsserver.enable": true,
+  "solidity.enable": true,
+  "coc.preferences.formatOnSaveFiletypes": ["javascript", "typescript", "solidity"],
+  "coc.preferences.autoUpdate": true,
+  "solidity": {
+    "enabled": true,
+    "root": ["foundry.toml"],
+    "compilerOptimization": true
+  }
+}
+
